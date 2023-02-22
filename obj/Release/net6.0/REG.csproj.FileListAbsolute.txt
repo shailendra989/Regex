@@ -1,0 +1,15 @@
+C:\Users\91790\source\repos\ConsoleApp1\Regex\bin\Release\net6.0\REG.exe
+C:\Users\91790\source\repos\ConsoleApp1\Regex\bin\Release\net6.0\REG.deps.json
+C:\Users\91790\source\repos\ConsoleApp1\Regex\bin\Release\net6.0\REG.runtimeconfig.json
+C:\Users\91790\source\repos\ConsoleApp1\Regex\bin\Release\net6.0\REG.dll
+C:\Users\91790\source\repos\ConsoleApp1\Regex\bin\Release\net6.0\REG.pdb
+C:\Users\91790\source\repos\ConsoleApp1\Regex\obj\Release\net6.0\REG.csproj.AssemblyReference.cache
+C:\Users\91790\source\repos\ConsoleApp1\Regex\obj\Release\net6.0\REG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91790\source\repos\ConsoleApp1\Regex\obj\Release\net6.0\REG.AssemblyInfoInputs.cache
+C:\Users\91790\source\repos\ConsoleApp1\Regex\obj\Release\net6.0\REG.AssemblyInfo.cs
+C:\Users\91790\source\repos\ConsoleApp1\Regex\obj\Release\net6.0\REG.csproj.CoreCompileInputs.cache
+C:\Users\91790\source\repos\ConsoleApp1\Regex\obj\Release\net6.0\REG.dll
+C:\Users\91790\source\repos\ConsoleApp1\Regex\obj\Release\net6.0\refint\REG.dll
+C:\Users\91790\source\repos\ConsoleApp1\Regex\obj\Release\net6.0\REG.pdb
+C:\Users\91790\source\repos\ConsoleApp1\Regex\obj\Release\net6.0\REG.genruntimeconfig.cache
+C:\Users\91790\source\repos\ConsoleApp1\Regex\obj\Release\net6.0\ref\REG.dll
